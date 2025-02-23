@@ -1,0 +1,2 @@
+D:\SecondSemester\OOP\PdTasks\pd5\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+D:\SecondSemester\OOP\PdTasks\pd5\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
